@@ -1,4 +1,5 @@
 Overview of a Restaurant Management System
+
 A Restaurant Management System (RMS) is software designed to streamline and enhance the management and operations of a restaurant. It provides tools and features that help manage various aspects of the restaurant business, including order processing, inventory management, customer relationship management, and reporting.
 
 Key Components of a Restaurant Management System
